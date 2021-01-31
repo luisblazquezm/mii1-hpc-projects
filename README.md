@@ -10,4 +10,4 @@ The following have been used for this purpose
 - OpenMP
 - Hybrid between MPI and OpenMP
 
-NOTE: If it is necessary to see the results between iterations, change in `utils.h` the value of the constant `LOG_LEVEL` to `DEBUG`.
+**NOTE**: If it is necessary to see the results between iterations, change in `utils.h` the value of the constant `LOG_LEVEL` to `DEBUG`.
